@@ -6,7 +6,7 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 # see https://github.com/j-hc/revanced-magisk-module/blob/main/CONFIG.md for more detailed explanations
 
 [YouTube]
-enabled = false
+enabled = true
 build-mode = "both"                                                   # 'both', 'apk' or 'module'
 excluded-patches = ""                                                 # space-seperated patches to exclude (multiline strings are not supported)
 included-patches = ""                                                 # space-seperated patches to include (non-excluded patches are included by default)
@@ -14,7 +14,7 @@ version = "auto"                                                      # 'auto', 
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 
 [Music-Extended]
-enabled = false
+enabled = true
 app-name = "Music"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
@@ -25,7 +25,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
 apkmirror-arch = "both"
 
 [YouTube-Extended]
-enabled = false
+enabled = true
 app-name = "YouTube"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
@@ -35,7 +35,7 @@ build-mode = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 
 [Music-Extended-ReX]
-enabled = false
+enabled = true
 app-name = "Music"
 patches-source = "YT-Advanced/ReX-patches"
 integrations-source = "YT-Advanced/ReX-integrations"
@@ -46,7 +46,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
 apkmirror-arch = "both"
 
 [YouTube-Extended-ReX] 
-enabled = false
+enabled = true
 app-name = "YouTube"
 patches-source = "YT-Advanced/ReX-patches"
 integrations-source = "YT-Advanced/ReX-integrations"
@@ -56,18 +56,18 @@ build-mode = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 
 [Music]
-enabled = false
+enabled = true
 build-mode = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
 apkmirror-arch = "both"
 
 [Twitter]
-enabled = false
+enabled = true
 build-mode = "apk"
 uptodown-dlurl = "https://twitter.en.uptodown.com/android"
 
 [Twitch]
-enabled = false
+enabled = true
 uptodown-dlurl = "https://twitch.en.uptodown.com/android"
 
 [TikTok]
@@ -78,16 +78,16 @@ version = "30.9.1"
 uptodown-dlurl = "https://tiktok.en.uptodown.com/android"
 
 [Reddit]
-enabled = false
+enabled = true
 uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 
 [Lightroom]
-enabled = false
+enabled = true
 apkmirror-dlurl = "https://www.apkmirror.com/apk/adobe/lightroom/"
 apkmirror-arch = "arm64-v8a + x86_64"
 
 [Messenger]
-enabled = false
+enabled = true
 apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/messenger/"
 apkmirror-arch = "both"
 
@@ -104,68 +104,68 @@ version = "auto"
 uptodown-dlurl = "https://spotify-lite.en.uptodown.com/android"
 
 [Citra]
-enabled = false
+enabled = true
 apkmirror-dlurl = "https://www.apkmirror.com/apk/citra-emulator/citra-emulator/"
 apkmirror-arch = "arm64-v8a"
 
 [Backdrops]
-enabled = false
+enabled = true
 uptodown-dlurl = "https://backdrops.en.uptodown.com/android"
 
 [WarnWetter]
-enabled = false
+enabled = true
 apkmirror-dlurl = "https://www.apkmirror.com/apk/deutscher-wetterdienst/warnwetter/"
 
 [Windyapp]
-enabled = false
+enabled = true
 apkmirror-dlurl = "https://www.apkmirror.com/apk/windy-weather-world-inc/windy-wind-weather-forecast/"
 
 [MyExpenses]
-enabled = false
+enabled = true
 uptodown-dlurl = "https://my-expenses.en.uptodown.com/android"
 
 [NyxMusicPlayer]
-enabled = false
+enabled = true
 build-mode = "apk"
 version = "auto"
 uptodown-dlurl = "https://nyx-music-player.en.uptodown.com/android"
 
 [IconPackStudio]
-enabled = false
+enabled = true
 apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio/"
 
 [TickTick]
-enabled = false
+enabled = true
 apkmirror-dlurl = "https://www.apkmirror.com/apk/appest-inc/ticktick-to-do-list-with-reminder-day-planner/"
 apkmirror-arch = "both"
 
 [Tasker]
-enabled = false
+enabled = true
 apkmirror-dlurl = "https://www.apkmirror.com/apk/joaomgcd/tasker/"
 
 [Photomath]
-enabled = false
+enabled = true
 apkmonk-dlurl = "https://www.apkmonk.com/app/com.microblink.photomath/"
 
 [Instagram]
-enabled = false
+enabled = true
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram/"
 apkmirror-arch = "both"
 
 [InShorts]
-enabled = false
+enabled = true
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/inshorts-formerly-news-in-shorts/inshorts-news-in-60-words-2/"
 apkmirror-arch = "both"
 
 [SyncForReddit]
-enabled = false
+enabled = true
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/red-apps-ltd/sync-for-reddit/"
 
 [InfinityForReddit]
-enabled = false
+enabled = true
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/docile-alligator/infinity-for-reddit/"
 
