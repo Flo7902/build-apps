@@ -72,6 +72,8 @@ uptodown-dlurl = "https://twitch.en.uptodown.com/android"
 
 [TikTok]
 enabled = true
+build-mode = "apk"
+version = "auto"
 uptodown-dlurl = "https://tiktok.en.uptodown.com/android"
 
 [Reddit]
@@ -79,12 +81,10 @@ uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 
 [Lightroom]
 enabled = false
-enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/adobe/lightroom/"
 apkmirror-arch = "arm64-v8a + x86_64"
 
 [Messenger]
-enabled = false
 enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/messenger/"
 apkmirror-arch = "both"
