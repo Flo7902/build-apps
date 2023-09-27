@@ -1,6 +1,4 @@
-TikTok: 31.4.3  
-Reddit: 2023.37.0  
-NyxMusicPlayer: 2.2.7  
+TikTok: 31.0.5  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube or YT Music  
 
