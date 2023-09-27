@@ -73,6 +73,7 @@ uptodown-dlurl = "https://twitch.en.uptodown.com/android"
 [TikTok]
 enabled = true
 build-mode = "apk"
+included-patches = ""  
 version = "auto"
 uptodown-dlurl = "https://tiktok.en.uptodown.com/android"
 
