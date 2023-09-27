@@ -1,4 +1,4 @@
-TikTok: 30.8.4  
+TikTok: 30.9.1  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube or YT Music  
 
