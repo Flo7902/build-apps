@@ -78,6 +78,7 @@ version = "auto"
 uptodown-dlurl = "https://tiktok.en.uptodown.com/android"
 
 [Reddit]
+enabled = false
 uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 
 [Lightroom]
@@ -124,7 +125,7 @@ enabled = false
 uptodown-dlurl = "https://my-expenses.en.uptodown.com/android"
 
 [NyxMusicPlayer]
-enabled = true
+enabled = false
 build-mode = "apk"
 version = "auto"
 uptodown-dlurl = "https://nyx-music-player.en.uptodown.com/android"
