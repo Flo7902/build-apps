@@ -71,7 +71,7 @@ enabled = true
 uptodown-dlurl = "https://twitch.en.uptodown.com/android"
 
 [TikTok]
-enabled = true
+enabled = false
 build-mode = "apk"
 included-patches = ""  
 version = "30.9.1"
@@ -144,7 +144,7 @@ enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/joaomgcd/tasker/"
 
 [Photomath]
-enabled = true
+enabled = false
 apkmonk-dlurl = "https://www.apkmonk.com/app/com.microblink.photomath/"
 
 [Instagram]
