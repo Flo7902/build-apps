@@ -20,8 +20,8 @@ integrations-source = "revanced/revanced-integrations" # where to fetch integrat
 cli-source = "j-hc/revanced-cli" # where to fetch cli from. default: "j-hc/revanced-cli"
 rv-brand = "ReVanced Extended" # rebrand from 'ReVanced' to something different. default: "ReVanced"
 
-patches-version = "v2.160.0" # locks the patches version. default: latest available
-integrations-version = "v0.95.0" # locks the integrations version. default: latest available
+patches-version = "" # locks the patches version. default: latest available
+integrations-version = "" # locks the integrations version. default: latest available
 
 [Some-App]
 app-name = "SomeApp" # if set, release name becomes SomeApp instead of Some-App. default is same as table name, which is 'Some-App' here.
